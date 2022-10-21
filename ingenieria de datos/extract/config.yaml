@@ -1,0 +1,19 @@
+news_sites:
+    eluniversal:
+        url: https://www.eluniversal.com.co
+        queries:
+            homepage_article_links: '.info a'
+            article_title: '.priority-content'
+            article_body: '.text p'
+    semana:
+        url: https://www.semana.es
+        queries:
+            homepage_article_links: '.td-module-meta-info a'
+            article_title: '.entry-title'
+            article_body: '.td-ss-main-content p'
+    eltiempo:
+        url: https://www.eltiempo.com
+        queries:
+            homepage_article_links: '.title-container a'
+            article_title: '.titulo-principal-bk h1'
+            article_body: '.contenido'
