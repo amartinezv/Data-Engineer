@@ -1,0 +1,8 @@
+beautifulsoup4
+request
+numpy
+pandas
+matplotlib
+yaml
+datetime
+os
