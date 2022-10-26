@@ -10,4 +10,4 @@ The steps of this script are the following:
 
 * Once the data is already clean it is stored in an SQLite Database in the 'load' directory.
 
-To use the script you have to run the file pipeline.py
+To use the script you have to install required libraries from requirements.txt and run the file pipeline.py
