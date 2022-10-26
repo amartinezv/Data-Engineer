@@ -1,6 +1,6 @@
 # Newspaper ETL Process
 
-This project uses a web scraper to extract data from Semana, El tiempo y El universal news websites. It is based on the procedure ETL (Extract, Transform, and Load).
+This project uses a web scraper to extract data from the front page of the news websites: Semana, El tiempo y El universal. It is based on the procedure ETL (Extract, Transform, and Load).
 
 The steps of this script are the following:
 
